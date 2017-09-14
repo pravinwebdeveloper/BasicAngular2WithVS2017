@@ -1,0 +1,11 @@
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\bin\Debug\netcoreapp1.1\Angular2App.deps.json
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\bin\Debug\netcoreapp1.1\Angular2App.runtimeconfig.json
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\bin\Debug\netcoreapp1.1\Angular2App.runtimeconfig.dev.json
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\obj\Debug\netcoreapp1.1\Angular2App.csprojResolveAssemblyReference.cache
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\bin\Debug\netcoreapp1.1\Angular2App.dll.config
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\bin\Debug\netcoreapp1.1\Angular2App.dll
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\bin\Debug\netcoreapp1.1\Angular2App.pdb
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\obj\Debug\netcoreapp1.1\Angular2App.csproj.CoreCompileInputs.cache
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\obj\Debug\netcoreapp1.1\Angular2App.AssemblyInfo.cs
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\obj\Debug\netcoreapp1.1\Angular2App.dll
+C:\Users\pravin.kumar\source\repos\Angular2App\Angular2App\obj\Debug\netcoreapp1.1\Angular2App.pdb
